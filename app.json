@@ -19,6 +19,21 @@
             "type": 1
         },
 		{
+            "name": "Gbox",
+            "bundleIdentifier": "com.ncs.gboxS",
+            "developerName": "GBox",
+            "version": "3.8.3",
+            "versionDate": "2023-03-22",
+            "versionDescription": "Fix thêm nhiều lỗi + đẻ ra nhiều lỗi",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/eudmmmiuwevt6r8/GBox_v3.8.3.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://gbox.run/Public/resources/icon256.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 5946000,
+            "type": 1
+        },
+		{
             "name": "Facebook Wolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "developerName": "Meta Platforms Inc",
