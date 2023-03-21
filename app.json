@@ -109,6 +109,21 @@
             "type": 1
         },
 		{
+            "name": "Spotify",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "Spotify",
+            "version": "8.8.6",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Không quảng cáo,nghe nhạc chất lượng Cao",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/e9d95hoq612wsgi/Spotify_8.8.6.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/26/15/75/26157543-24e9-69c6-d36b-d51e3045f49b/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/100x100bb.jpg",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 56001000,
+            "type": 1
+        },
+		{
             "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "qnblackcat",
@@ -172,7 +187,7 @@
             "name": "VeboTV",
             "bundleIdentifier": "app.vebo.livescore",
             "developerName": "VeboTV",
-            "version": "7.5",
+            "version": "1.2",
             "versionDate": "2023-03-21",
             "versionDescription": "Xóa quảng cáo",
             "downloadURL": "https://dl.dropboxusercontent.com/s/vi5cuekwhnpghpj/VeboTV%20v1.2.ipa",
