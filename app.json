@@ -184,6 +184,21 @@
             "type": 1
         },
 		{
+            "name": "VSCO: Photo & Video Editor",
+            "bundleIdentifier": "co.visualsupply.cam",
+            "developerName": "Visual Supply Company",
+            "version": "312.0.0",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Mở khóa tính năng Pro",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/ffuspysu9xlfxh1/VSCO_312.0.0.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/cd/7d/60/cd7d6019-ca83-ed17-c651-8523d8b74183/app-icon-production-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 76095000,
+            "type": 1
+        },
+		{
             "name": "VeboTV",
             "bundleIdentifier": "app.vebo.livescore",
             "developerName": "VeboTV",
