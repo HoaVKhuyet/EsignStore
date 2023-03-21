@@ -79,6 +79,21 @@
             "type": 1
         },
 		{
+            "name": "Twitter",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "developerName": "Twitter, Inc",
+            "version": "9.48",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Chặn ads và vài tính năng khác",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/zz5gxbu7gv6nxt1/TTDark_28.4.0.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/44/41/eb444144-6353-5131-2532-f23abe101a61/ProductionAppIcon-1x_U007emarketing-0-7-0-0-0-85-220.png/100x100bb.jpg",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 82382000,
+            "type": 1
+        },
+		{
             "name": "Instagram",
             "bundleIdentifier": "MH9GU9K5PX.com.burbn.instagram",
             "developerName": "Instagram Inc",
@@ -114,13 +129,28 @@
             "developerName": "QuVideo Inc",
             "version": "9.9.0",
             "versionDate": "2023-03-21",
-            "versionDescription": "Mở khóa VIP",
+            "versionDescription": "Mở khóa tính năng VIP",
             "downloadURL": "https://dl.dropboxusercontent.com/s/h6ztjt7vhqo9yqv/VivaVideo_9.9.0.ipa",
             "localizedDescription": "",
             "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/3f/90/a83f90c1-fac3-f6a4-6208-4c90f78ffcaf/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
 			"tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 104945000,
+            "type": 1
+        },
+		{
+            "name": "Infuse Pro",
+            "bundleIdentifier": "com.firecore.infuse",
+            "developerName": "Firecore LLC",
+            "version": "7.5",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Mở khóa tính năng Pro",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/3ekvgl0g4us1xz5/Infuse%20Pro%207.5.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/45/41/a04541f3-f68b-8a47-191c-e454fd149301/AppIconLight-0-1x_U007emarketing-0-7-0-0-0-85-220-0.png/350x350.png",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 76095000,
             "type": 1
         }
     ]
