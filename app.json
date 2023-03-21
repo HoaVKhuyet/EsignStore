@@ -139,6 +139,21 @@
             "type": 1
         },
 		{
+            "name": "Terabox",
+            "bundleIdentifier": "com.dubox.drive.common-data",
+            "developerName": "Flextech Inc",
+            "version": "3.9.0",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Free 1TB cloud storage",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/zappavui7701m2g/TeraBox_3.9.0.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/d2/9c/14/d29c1404-3bac-5b64-363b-5562ec5633f3/AppIcon-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 104945000,
+            "type": 1
+        },
+		{
             "name": "Infuse Pro",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "Firecore LLC",
