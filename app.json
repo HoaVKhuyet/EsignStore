@@ -79,6 +79,21 @@
             "type": 1
         },
 		{
+            "name": "DL TikTok",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "developerName": "TikTok Ltd",
+            "version": "28.4.1",
+            "versionDate": "2023-03-21",
+            "versionDescription": "DL TikTok",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/n0cmak6zg0cpij8/DLTikTok_28.4.1.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/90/89/c0908979-256d-1701-36bb-ac85d4136fd2/AppIcon_TikTok-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 211802000,
+            "type": 1
+        },
+		{
             "name": "Twitter",
             "bundleIdentifier": "com.atebits.Tweetie2",
             "developerName": "Twitter, Inc",
