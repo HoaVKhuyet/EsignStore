@@ -139,6 +139,36 @@
             "type": 1
         },
 		{
+            "name": "Kodi",
+            "bundleIdentifier": "it.joethefox.XBMC-Remote",
+            "developerName": "Kodi Foundation",
+            "version": "8.8.6",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Kodi là một ứng dụng phần mềm trình phát đa phương tiện mã nguồn mở và miễn phí được phát triển bởi XBMC Foundation",
+            "downloadURL": "",
+            "localizedDescription": "",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/94/c4/ec/94c4ecf2-7e39-5d76-7561-2317c9e7c587/AppIcon-0-1x_U007emarketing-0-10-0-0-85-220.png/100x100bb.jpg",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 56001000,
+            "type": 1
+        },
+		{
+            "name": "IPA Installer",
+            "bundleIdentifier": "com.AppInstalleriOS.IPA-Installer",
+            "developerName": "IPA Installer",
+            "version": "1.0",
+            "versionDate": "2023-03-22",
+            "versionDescription": "Giúp cài ipa đã ký offline",
+            "downloadURL": "",
+            "localizedDescription": "",
+            "iconURL": "",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 398000,
+            "type": 1
+        },
+		{
             "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "qnblackcat",
