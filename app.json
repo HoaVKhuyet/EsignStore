@@ -1,7 +1,7 @@
 {
     "name": "Chibi App",
     "identifier": "xyz.yyyue.esign, com.google.ios.youtube",
-    "sourceURL": "https://s3-hcm-r1.longvan.net/19418606-config/chibiapp.json",
+    "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
         {
             "name": "ESign",
