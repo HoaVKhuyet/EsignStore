@@ -1,12 +1,12 @@
 {
-    "name": "Kho IPA tổng hợp by Chibi - Nguồn sưu tầm: Internet",
+    "name": "Kho IPA tổng hợp by Chibi - Nguồn: Internet",
     "identifier": "",
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
             "name": "Cercube",
             "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "qnblackcat",
+            "developerName": "Cercube",
             "version": "18.11.2",
             "versionDate": "2023-03-22",
             "versionDescription": "Không quảng cáo, download, PIP...",
@@ -16,6 +16,21 @@
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 97357000,
+            "type": 1
+        },
+		{
+            "name": "Canary Mail - Email, meet AI",
+            "bundleIdentifier": "Mailroom.Canary-iOS",
+            "developerName": "Mailr Tech LLP",
+            "version": "3.89",
+            "versionDate": "2023-03-22",
+            "versionDescription": "Mở khóa tính năng Pro",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/l7fuezy5y23sb2s/Canary_3.89.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/20/6a/22/206a226a-1df1-dae6-19d6-d16ca11bbe44/iOS_App_Icons-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 49092000,
             "type": 1
         },
 		{
