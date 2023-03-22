@@ -4,6 +4,21 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
+            "name": "Cercube",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "qnblackcat",
+            "version": "18.11.2",
+            "versionDate": "2023-03-22",
+            "versionDescription": "Không quảng cáo, download, PIP...",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/4ss4oyuwiv76beb/YTCercube_18.11.2.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/84/7c/12/847c12a7-f5ce-b5fb-72cb-a53db6ab1f3c/logo_youtube_color-1x_U007emarketing-0-6-0-85-220.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 97357000,
+            "type": 1
+        },
+		{
             "name": "BiliTV",
             "bundleIdentifier": "com.bstar.intl",
             "developerName": "BALABOOM PTE LTD",
