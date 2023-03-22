@@ -19,6 +19,21 @@
             "type": 1
         },
 		{
+            "name": "iTorrent",
+            "bundleIdentifier": "ru.nonamedude.iTorrent",
+            "developerName": "iTorrent",
+            "version": "1.9",
+            "versionDate": "2023-03-22",
+            "versionDescription": "Torrent client for iOS",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/z7d5t1vg6aoof17/iTorrent_1.9.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://ios.codevn.net/wp-content/uploads/2022/09/itorrent.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 11913000,
+            "type": 1
+        },
+		{
             "name": "Cercube",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "Cercube",
