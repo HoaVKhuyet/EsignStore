@@ -3,6 +3,21 @@
     "identifier": "",
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
+		{
+            "name": "BiliTV",
+            "bundleIdentifier": "com.bstar.intl",
+            "developerName": "BALABOOM PTE LTD",
+            "version": "4.8.1",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Mod 1080p, chặn quảng cáo",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/mtn82s0231o74hd/bilitv_1080p.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/29/29/a2/2929a272-2ec6-f9c7-3484-20c62b60d502/AppIcon-inter-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 57016000,
+            "type": 1
+        },
         {
             "name": "ESign",
             "bundleIdentifier": "p3.xyz.yyyue.esign",
