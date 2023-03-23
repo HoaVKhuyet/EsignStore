@@ -4,6 +4,21 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
+            "name": "Facebook Wolf",
+            "bundleIdentifier": "com.facebook.Facebook",
+            "developerName": "Meta Platforms Inc",
+            "version": "407.0",
+            "versionDate": "2023-03-21",
+            "versionDescription": "Không quảng cáo và nhiều tính năng khác",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/5vn2rrfhttqhzle/FacebookWolf_407.0.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/f9/15/0af915f1-5c46-23ae-02b4-88e0b328408e/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 141172000,
+            "type": 1
+        },
+		{
             "name": "CapCut",
             "bundleIdentifier": "com.lemon.lvoverseas",
             "developerName": "Bytedance Pte. Ltd",
@@ -106,21 +121,6 @@
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 5946000,
-            "type": 1
-        },
-		{
-            "name": "Facebook Wolf",
-            "bundleIdentifier": "com.facebook.Facebook",
-            "developerName": "Meta Platforms Inc",
-            "version": "406.0",
-            "versionDate": "2023-03-21",
-            "versionDescription": "Không quảng cáo...",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/awumm1mwbi6fyx4/FacebookWolf_406.0.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/f9/15/0af915f1-5c46-23ae-02b4-88e0b328408e/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 136839000,
             "type": 1
         },
 		{
