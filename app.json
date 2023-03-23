@@ -4,6 +4,21 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
+            "name": "Zalo 2",
+            "bundleIdentifier": "zalo.ok.junkyo",
+            "developerName": "Zalo Group",
+            "version": "23.03.01",
+            "versionDate": "2023-03-23",
+            "versionDescription": "Zalo 2 cài song song bản gốc Appstore",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/f8kkrgdxr6fbzs9/Zalo2_230301.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/7c/6d/a57c6d5c-b7b4-d1ba-c976-ec102591fc9c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 74778000,
+            "type": 1
+        },
+		{
             "name": "Facebook Wolf",
             "bundleIdentifier": "com.facebook.Facebook",
             "developerName": "Meta Platforms Inc",
@@ -136,21 +151,6 @@
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 51514000,
-            "type": 1
-        },
-		{
-            "name": "Zalo 2",
-            "bundleIdentifier": "zalo.ok.junkyo",
-            "developerName": "Zalo Group",
-            "version": "23.02.01",
-            "versionDate": "2023-03-21",
-            "versionDescription": "Zalo 2 cài song song bản gốc Appstore",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/wu6be40859x5ct2/Zalo_230201.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/a5/7c/6d/a57c6d5c-b7b4-d1ba-c976-ec102591fc9c/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 72767000,
             "type": 1
         },
 		{
