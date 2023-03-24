@@ -4,6 +4,21 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
+            "name": "Happy Chick",
+            "bundleIdentifier": "",
+            "developerName": "xiaoji001",
+            "version": "1.5.4",
+            "versionDate": "2023-03-25",
+            "versionDescription": "Trình giả lập chơi game trên IOS. Liên hệ Chibi để mua chứng chỉ cài",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/b0y6dg8egk8k3tg/xiaoji_1.5.4.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://xiaoji001.org/wap/logo.png",
+			"tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 72141000,
+            "type": 1
+        },
+		{
             "name": "Xtreme VPN",
             "bundleIdentifier": "mca.app.vpn",
             "developerName": "Mind Cubes Apps",
