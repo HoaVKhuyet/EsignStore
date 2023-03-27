@@ -4,8 +4,23 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
+            "name": "Aidoku",
+            "bundleIdentifier": "com.aidoku.ios",
+            "developerName": "Skittyblock",
+            "version": "0.6.2",
+            "versionDate": "2023-03-28",
+            "versionDescription": "Ứng dụng đọc truyện.",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/kbq51i2u4av328p/Aidoku.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://avatars.githubusercontent.com/u/97767528?s=200&v=4",
+			"tintColor": "e85567",
+            "isLanZouCloud": 0,
+            "size": 3193000,
+            "type": 1
+        },
+		{
             "name": "Paperback",
-            "bundleIdentifier": "com.google.ios.youtube",
+            "bundleIdentifier": "com.faizandurrani.paperback.ios",
             "developerName": "FaizanDurrani",
             "version": "0.7.45",
             "versionDate": "2023-03-28",
