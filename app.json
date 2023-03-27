@@ -4,18 +4,18 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
-            "name": "YouTube Music Premium",
-            "bundleIdentifier": "com.google.ios.youtubemusic",
-            "developerName": "Google LLC",
-            "version": "5.45.1",
+            "name": "uYouPlus",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "MiRO92 & Qn_",
+            "version": "18.08.1",
             "versionDate": "2023-03-25",
             "versionDescription": "Không quảng cáo,chạy nền,hiện thanh trạng thái nghe,dark mode...",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/h0ug8xt2ex3fb6x/YouTubeMusic_v5.45.1.ipa",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/q6wbbmzxj4949ln/uYouPlus_18.08.1_2.3.1.ipa",
             "localizedDescription": "",
-            "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/50/d6/40/50d640cc-fd06-4154-5f24-2a56b9d9ec73/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/230x0w.webp",
-			"tintColor": "018084",
+            "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/icon_clipped.png",
+			"tintColor": "e85567",
             "isLanZouCloud": 0,
-            "size": 72141000,
+            "size": 111605847,
             "type": 1
         },
 		{
