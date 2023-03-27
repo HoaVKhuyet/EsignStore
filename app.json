@@ -34,6 +34,36 @@
             "type": 1
         },
 		{
+            "name": "Facebook 2",
+            "bundleIdentifier": "com.facebook.Facebook2",
+            "developerName": "Meta Platforms Inc",
+            "version": "407.1",
+            "versionDate": "2023-03-28",
+            "versionDescription": "Facebook 2 cài song song bản gốc Appstore",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/8c9oqc6h6u0xhwg/Facebook2_407.1.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/f9/15/0af915f1-5c46-23ae-02b4-88e0b328408e/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 149538000,
+            "type": 1
+        },
+		{
+            "name": "Messenger 2",
+            "bundleIdentifier": "com.facebook.Messenger2",
+            "developerName": "Meta Platforms Inc",
+            "version": "401.0",
+            "versionDate": "2023-03-28",
+            "versionDescription": "Messenger 2 cài song song bản gốc Appstore",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/p5viyg1cjgl17y1/Messenger2_401.0.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/da/20/9dda20e0-75cf-e32c-b00b-c14812b66138/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 51803000,
+            "type": 1
+        },
+		{
             "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "MiRO92 & Qn_",
@@ -106,21 +136,6 @@
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 74778000,
-            "type": 1
-        },
-		{
-            "name": "Facebook Wolf",
-            "bundleIdentifier": "com.facebook.Facebook",
-            "developerName": "Meta Platforms Inc",
-            "version": "407.0",
-            "versionDate": "2023-03-23",
-            "versionDescription": "Không quảng cáo và nhiều tính năng khác",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/5vn2rrfhttqhzle/FacebookWolf_407.0.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/0a/f9/15/0af915f1-5c46-23ae-02b4-88e0b328408e/Icon-Production-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 141172000,
             "type": 1
         },
 		{
@@ -228,21 +243,7 @@
             "size": 5946000,
             "type": 1
         },
-		{
-            "name": "Messenger 2",
-            "bundleIdentifier": "com.facebook.Messenger2",
-            "developerName": "Meta Platforms Inc",
-            "version": "398.0",
-            "versionDate": "2023-03-21",
-            "versionDescription": "Messenger 2 cài song song bản gốc Appstore",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/9gqs0kpymnbijri/Messenger2_398.0.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/9d/da/20/9dda20e0-75cf-e32c-b00b-c14812b66138/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 51514000,
-            "type": 1
-        },
+		
 		{
             "name": "TikTok Dark",
             "bundleIdentifier": "com.zhiliaoapp.musically",
