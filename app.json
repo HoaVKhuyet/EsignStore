@@ -4,11 +4,26 @@
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
 		{
+            "name": "Paperback",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "developerName": "FaizanDurrani",
+            "version": "0.7.45",
+            "versionDate": "2023-03-28",
+            "versionDescription": "Ứng dụng đọc truyện.",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/d6woaxnjhzqlq3g/Paperback.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://avatars.githubusercontent.com/u/64667922?s=200&v=4",
+			"tintColor": "e85567",
+            "isLanZouCloud": 0,
+            "size": 21238000,
+            "type": 1
+        },
+		{
             "name": "uYouPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "MiRO92 & Qn_",
             "version": "18.08.1",
-            "versionDate": "2023-03-25",
+            "versionDate": "2023-03-28",
             "versionDescription": "Không quảng cáo,chạy nền,download...",
             "downloadURL": "https://dl.dropboxusercontent.com/s/q6wbbmzxj4949ln/uYouPlus_18.08.1_2.3.1.ipa",
             "localizedDescription": "",
