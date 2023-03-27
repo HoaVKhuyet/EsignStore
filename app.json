@@ -79,6 +79,21 @@
             "type": 1
         },
 		{
+            "name": "Cowabunga",
+            "bundleIdentifier": "",
+            "developerName": "leminlimez",
+            "version": "10.0.3",
+            "versionDate": "2023-03-28",
+            "versionDescription": "Cowabunga cho iOS 14.0-15.7.1 and 16.0-16.1.2",
+            "downloadURL": "https://dl.dropboxusercontent.com/s/9l6i8zw6kpgrn4m/Cowabunga.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+			"tintColor": "e85567",
+            "isLanZouCloud": 0,
+            "size": 21053000,
+            "type": 1
+        },
+		{
             "name": "Happy Chick",
             "bundleIdentifier": "",
             "developerName": "xiaoji001",
