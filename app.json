@@ -3,6 +3,21 @@
     "identifier": "",
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
+				{
+            "name": "CapCut",
+            "bundleIdentifier": "com.lemon.lvoverseas",
+            "developerName": "Bytedance Pte. Ltd",
+            "version": "7.7.2",
+            "versionDate": "2023-03-28",
+            "versionDescription": "Không quảng cáo, mở tính năng(chưa test)",
+            "downloadURL": "",
+            "localizedDescription": "",
+            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/58/79/0a58790e-40f1-0cbc-f83a-5c93dfd0332e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 86584000,
+            "type": 1
+        },
 		{
             "name": "Aidoku",
             "bundleIdentifier": "com.aidoku.ios",
@@ -166,21 +181,6 @@
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 74778000,
-            "type": 1
-        },
-		{
-            "name": "CapCut",
-            "bundleIdentifier": "com.lemon.lvoverseas",
-            "developerName": "Bytedance Pte. Ltd",
-            "version": "7.6.3",
-            "versionDate": "2023-03-22",
-            "versionDescription": "Không quảng cáo, mở tính năng(chưa test)",
-            "downloadURL": "https://dl.dropboxusercontent.com/s/r8ctx3ew9i23y1b/CapCut_7.6.3.ipa",
-            "localizedDescription": "",
-            "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/0a/58/79/0a58790e-40f1-0cbc-f83a-5c93dfd0332e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-            "tintColor": "018084",
-            "isLanZouCloud": 0,
-            "size": 82796000,
             "type": 1
         },
 		{
