@@ -3,7 +3,22 @@
     "identifier": "",
     "sourceURL": "https://raw.githubusercontent.com/HoaVKhuyet/EsignStore/main/app.json",
     "apps": [
-				{
+		{
+            "name": "Youtube Music Premium",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "developerName": "Google LLC",
+            "version": "5.51",
+            "versionDate": "2023-04-12",
+            "versionDescription": "Tính năng premium, không quảng cáo",
+            "downloadURL": "https://s3-hcm-r1.longvan.net/19418606-ipa/YouTubeMusic_5.51_YTMusicUltimate.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/13/6f/08/136f08ce-ccf3-dd40-ee35-d53eb8c66477/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/230x0w.webp",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 96398737,
+            "type": 1
+        },
+		{
             "name": "CapCut",
             "bundleIdentifier": "com.lemon.lvoverseas",
             "developerName": "Bytedance Pte. Ltd",
