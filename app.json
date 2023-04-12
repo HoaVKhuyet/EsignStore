@@ -19,6 +19,21 @@
             "type": 1
         },
 		{
+            "name": "Remini",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "developerName": "Bending Spoons Apps ApS",
+            "version": "2.9.27",
+            "versionDate": "2023-04-12",
+            "versionDescription": "Tính năng premium(chưa test), không quảng cáo",
+            "downloadURL": "https://s3-hcm-r1.longvan.net/19418606-ipa/Remini_2.9.27.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1d/5d/89/1d5d89cc-b7d0-6da5-f3c3-16690d9ba10d/AppIcon-1x_U007epad-85-220.png/350x350.png?",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 90255130,
+            "type": 1
+        },
+		{
             "name": "CapCut",
             "bundleIdentifier": "com.lemon.lvoverseas",
             "developerName": "Bytedance Pte. Ltd",
